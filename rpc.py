@@ -2,7 +2,7 @@ from pypresence import Presence
 import handler
 import time
 
-client_id = "482150417455775755"
+client_id = "772181290451599431"
 rich_presence = Presence(client_id)
 
 def connect():
