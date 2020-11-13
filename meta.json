@@ -61,7 +61,7 @@
     "smallImageKey": "dreamweaver_small",
     "largeText": "Adobe Dreamweaver",
     "smallText": "Editing"
-}
+},
 {
     "processName": "incopy.exe",
     "splitBy": " @ ",
@@ -70,7 +70,7 @@
     "smallImageKey": "incopy_small",
     "largeText": "Adobe InCopy",
     "smallText": "Editing"
-}
+},
 {
     "processName": "mediaencoder.exe",
     "splitBy": " @ ",
